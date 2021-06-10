@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const NavBar = ({toggle}) => {
     return (
         <nav className="flex justify-between items-center h-16 bg-gray-300 text-black relative text-xl shadow-sm font-mono" role="navigation">
-            <Link to='/' className="pl-8">EGG</Link>
+            <Link to='/' className="pl-8 w-16 md:w-26 lg:w-18"><img src="https://images.squarespace-cdn.com/content/570fa9a8d51cd494834bfe9a/1472732390019-NXKOH4I4M159R5SBZ4KC/Virgo_website+favicons_egg.png?content-type=image%2Fpng" alt="" /></Link>
             <div className="px-4 cursor-pointer md:hidden"
                 onClick={toggle}
             >

@@ -1,11 +1,8 @@
 import React, {useState, useEffect} from 'react';
 import './App.css';
 import {
-  BrowserRouter as Router,
   Switch,
-  Route,
-  Link
-} from "react-router-dom";
+  Route } from "react-router-dom";
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import Home from './components/pages/index';
