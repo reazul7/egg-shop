@@ -14,10 +14,13 @@
 I am always ready to work hard and it helps me learn faster. And I have good knowledge in Full-Stack Web Development with experience in building Web Applications used React.js for client-side, Node.js/Express.js for server-side, and MongoDB for the database.
 
 ## SKILLS:
-Expertise: JavaScript, ReactJS, React Bootstrap, HTML, CSS, React-router
-Comfortable: ES6, Node.js, Express.js, MongoDB, Firebase, Heroku, Netlify, Tailwind CSS
-Familiar: React Native, MaterialUI, SASS, Redux, MySQL
-Tools: VS Code, GitHub, npm, yarn, XMAPP
+<b>Expertise:</b> JavaScript, ReactJS, React Bootstrap, HTML, CSS, React-router
+
+<b>Comfortable:</b> ES6, Node.js, Express.js, MongoDB, Firebase, Heroku, Netlify, Tailwind CSS
+
+<b>Familiar:</b> React Native, MaterialUI, SASS, Redux, MySQL
+
+<b>Tools:</b> VS Code, GitHub, npm, yarn, XMAPP
 
 ## FAMILIAR WITH:
 TypeScript, React-Native, , React-bootsrap, SASS, WordPress, C Language
