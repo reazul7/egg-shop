@@ -20,6 +20,20 @@ function App() {
     setIsOpen(!isOpen);
   }
 
+  useEffect(() => {
+    const hideMenu = () => {
+      if (window.innerWidth > 768 && isOpen) {
+        setIsOpen(false)
+        console.log('dropdown resized')
+      }
+    }
+
+    window.addEventListener('resize', hideMenu)
+    return () => {
+      window.removeEventListener('resize', hideMenu);
+    }
+  })
+
   return (
     <>
       <NavBar toggle={toggle}/>
