@@ -3,7 +3,7 @@
   <a href="https://egg-shops.web.app" target="_blank">Lite Site</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./src/images/view.png" />
+  <img src="https://raw.githubusercontent.com/reazul7/egg-shop/master/src/components/images/view.png" alt="Demo"/>
 </div>
 
 ## Hi there 👋, 
@@ -14,12 +14,9 @@
 I am always ready to work hard and it helps me learn faster. And I have good knowledge in Full-Stack Web Development with experience in building Web Applications used React.js for client-side, Node.js/Express.js for server-side, and MongoDB for the database.
 
 ## SKILLS:
-<b>Expertise:</b> JavaScript, ReactJS, React Bootstrap, HTML, CSS, React-router
-
-<b>Comfortable:</b> ES6, Node.js, Express.js, MongoDB, Firebase, Heroku, Netlify, Tailwind CSS
-
-<b>Familiar:</b> React Native, MaterialUI, SASS, Redux, MySQL
-
+<b>Expertise:</b> JavaScript, ReactJS, React Bootstrap, HTML, CSS, React-router <br>
+<b>Comfortable:</b> ES6, Node.js, Express.js, MongoDB, Firebase, Heroku, Netlify, Tailwind CSS <br>
+<b>Familiar:</b> React Native, MaterialUI, SASS, Redux, MySQL <br>
 <b>Tools:</b> VS Code, GitHub, npm, yarn, XMAPP
 
 ## FAMILIAR WITH:
