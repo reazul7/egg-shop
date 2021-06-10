@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const NavBar = ({toggle}) => {
     return (
-        <nav className="flex justify-between items-center h-16 bg-white text-black relative shadow-sm font-mono" role="navigation">
+        <nav className="flex justify-between items-center h-16 bg-gray-300 text-black relative text-xl shadow-sm font-mono" role="navigation">
             <Link to='/' className="pl-8">EGG</Link>
             <div className="px-4 cursor-pointer md:hidden"
                 onClick={toggle}
